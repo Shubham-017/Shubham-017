@@ -1,5 +1,5 @@
-### Hi, I'm Shubham 👋
-<p align="center"><b> Crafting Models from Papers </b></p>
+<h2>Hi, I'm Shubham 👋</h2>
+<p align="center"><b>Crafting Models from Papers</b></p>
 🏠 ML Developer sharing learning about tech. <br/>
 🔭 I’m currently working on RNN<br>
 📚 I’m currently learning Gen-AI, LLM's, MLops<br>
